@@ -1,0 +1,20 @@
+{
+  "name": "doiquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "bottleneck": "^1.16.0",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "wuzzy": "^0.1.3"
+  }
+}
